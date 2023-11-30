@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.ctm-color{
+  background-color: brown;
+  color: white;
+}
+
+.box1{
+  background-color: brown;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
